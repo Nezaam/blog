@@ -1,4 +1,4 @@
-package com.nezaam.blog.routes
+package com.nezaam.blog.repository
 
 import cats.Applicative
 import cats.implicits._
